@@ -105,8 +105,8 @@ target_languages = [
     "uz_uz",
     "vi_vn",
     "yo_ng",
-    "zh_CN_cn",
-    "zh_TW_tw",
+    "zh-CN_cn",
+    "zh-TW_tw",
     "zu_za"
 ]
 
