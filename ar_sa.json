@@ -1,0 +1,238 @@
+{
+    "name": "باتريك جودوين",
+    "menu": {
+        "home": "بيت",
+        "about": "ْعَنِّي",
+        "portfolio": "مَلَفّ",
+        "projects": "مشاريع الموقع",
+        "tiger": "لغة النمر",
+        "formatter": "JSON & YAML Formatter",
+        "contact": "اتصل بي"
+    },
+    "home": {
+        "title": "بيت",
+        "animated": {
+            "first": "مهندس برمجيات مكدس كامل",
+            "second": "مطور الويب",
+            "third": "مطور اللعبة",
+            "fourth": "منشئ المحتوى"
+        },
+        "footer": "الموقع الآن مترجم و Avaliable في 100+ لغة!",
+        "descriptionA": "من ذوي الخبرة في مهندس برمجيات ومطور ويب من ذوي الخبرة مع تاريخ واضح من مشاريع التطوير الناجحة ، من إنشاء تعديلات Java لـ Minecraft إلى تعزيز تجربة المستخدم في React.js وتنفيذ واجهات برمجة تطبيقات REST الآمنة ، مع استخدام منهجيات Agile باستمرار والتعاون الجماعي الفعال.",
+        "descriptionB": "بالإضافة إلى ذلك ، أنا منشئ محتوى الجغرافيا الذي نجح في الاستفادة من خوارزميات منصات الوسائط الاجتماعية المتعددة ، بما في ذلك Instagram و YouTube و Tiktok ، لاكتساب قاعدة أتباع محترمة وجذابة.",
+        "portfolio_button": "محفظتي",
+        "contact_button": "اتصل بي",
+        "about_button": "ْعَنِّي"
+    },
+    "about": {
+        "title": "ْعَنِّي",
+        "personal_summary": {
+            "title": "ملخص شخصي",
+            "text": "بصفتي مطور برامج مكدس كامل متمرس مقره في أورلاندو ، فلوريدا ، أظهرت خبرة في العديد من التقنيات ، من Java و C ++ إلى React.js و Node.js. من خلال سجل حافل في قيادة المشاريع ، بما في ذلك تطوير برنامج تعديل Java لـ Minecraft وموقع مجزئ لسائقي الشاحنات ، عرضت القيادة والابتكار. إن التزامي بالتميز واضح في قدرتي على تبسيط إدارة المشاريع ، وحل المشكلات المعقدة ، وتقديم حلول عالية الجودة تعزز تجربة المستخدم وتدفع النجاح التنظيمي."
+        },
+        "professional_experience": {
+            "title": "خبرة مهنية",
+            "entries": [
+                {
+                    "jobtitle": "مهندس برمجيات صغار",
+                    "where": "ORION180 التأمين",
+                    "date": "2024 - الحاضر"
+                },
+                {
+                    "jobtitle": "مؤسس ومطور برامج المكدس الكامل",
+                    "where": "suprememc",
+                    "date": "2020 - 2024"
+                },
+                {
+                    "jobtitle": "مهندس برمجيات مكدس كامل",
+                    "where": "تسريع التعلم",
+                    "date": "2023"
+                },
+                {
+                    "jobtitle": "مطور الويب الرئيسي (برنامج الطلاب)",
+                    "where": "برنامج جامعة كليمسون GDI",
+                    "date": "2021 - 2022"
+                },
+                {
+                    "jobtitle": "مشرف مكتب",
+                    "where": "جامعة كليمسون",
+                    "date": "2021 - 2022"
+                }
+            ]
+        },
+        "technical_skills": {
+            "title": "المهارات الفنية",
+            "header1": "لغات البرمجة",
+            "header2": "الأطر والمكتبات",
+            "header3": "الأدوات والتقنيات"
+        },
+        "services": {
+            "title": "خدماتي",
+            "entries": [
+                {
+                    "title": "هندسة المكدس الكاملة",
+                    "text": "أقدم حلولًا شاملة عبر كل من التطوير الأمامي والخلفي ، مما يضمن التكامل والوظائف غير الملحومة في جميع أنحاء مكدس البرامج بأكمله."
+                },
+                {
+                    "title": "تطوير الويب",
+                    "text": "من خلال الخبرة في HTML و CSS و JavaScript Frameworks مثل React.js ، أقوم بصياغة مواقع الويب الجذابة بصريًا وسهلة الاستخدام مصممة لتلبية الاحتياجات والتفضيلات المحددة للعملاء."
+                },
+                {
+                    "title": "تطوير اللعبة",
+                    "text": "الاستفادة من اللغات مثل Java و C ++ ، أنا متخصص في إنشاء تجارب ألعاب غامرة ، من المفهوم والتصميم إلى التنفيذ والتحسين ، وضمان إشراك اللعب والأداء السلس."
+                }
+            ]
+        }
+    },
+    "portfolio": {
+        "title": "مَلَفّ",
+        "filter_by": "محفظة تصفية:",
+        "entries": {
+            "biblioteca": {
+                "title": "Biblioteca json",
+                "text": "مشروع بيثون الذي يبسط ترجمات اللغة. يسمح بترجمة محفظة موقع الويب الخاص بي إلى أكثر من 70 لغة ، بما في ذلك الإسبانية والفرنسية والصينية والعربية وغيرها الكثير. يستخدم هذا المشروع لإنشاء محفظة ويب متعددة اللغات ، وهي مفيدة للغاية للوصول إلى جمهور أوسع. مع هذا المشروع ، يمكن لأكثر من 99 ٪ من العالم قراءة محفظتي بلغة بطلاقة.",
+                "link": "https://github.com/pattygcoding/Biblioteca-JSON"
+            },
+            "connect_four": {
+                "title": "توصيل أربعة",
+                "text": "عائلة ضخمة تضم أكثر من 50 تطبيقًا من لعبة Connect Four. يتضمن هذا المشروع تطبيقات في أكثر من 30 لغة برمجة مختلفة ، بما في ذلك Java و C ++ و Python و JavaScript والمزيد. بالإضافة إلى ذلك ، فإنه يشمل أيضًا أكثر من 20 من أطر مختلفة أو تنسيقات أخرى ، بما في ذلك React.js و Ruby on Rails و ASP.NET والمزيد.",
+                "link": "https://github.com/pattygcoding/Connect-Four-Language-Tree"
+            },
+            "interop": {
+                "title": "مشروع interop",
+                "text": "المشروع الذي يوثق قابلية التشغيل البيني بين لغات البرمجة المختلفة. يتضمن حاليًا 15 لغة برمجة مختلفة و 18 أنماط تنفيذ.",
+                "link": "https://github.com/pattygcoding/Interop-Samples"
+            },
+            "formatter": {
+                "title": "JSON & YAML Auto Formatter",
+                "text": "Linter و Autoformatter لملفات Json & Yaml. يتم استخدام هذا المشروع لتنسيق ملفات JSON & YAML ، وهو أمر مفيد جدًا للحفاظ على الكود نظيفًا ومنظمًا. تم تصميمه مع GO ، تم تجميعه باستخدام Webassembly ، ومدمج في محفظتي كمشروع موقع ويب. المزيد من التنسيقات لتأتي في المستقبل.",
+                "link": "https://github.com/pattygcoding/JSON-YAML-Auto-Formatter"
+            },
+            "minecraft_json_generator": {
+                "title": "Minecraft JSON Generator",
+                "text": "مولد JSON خفيف الوزن مدمج في بيثون لحزم موارد وبيانات Minecraft. يتم استخدام هذا المشروع لإنشاء ملفات JSON ل Minecraft Mods ، بما في ذلك العناصر المخصصة والكتل والكيانات. مفيد جدًا ليس فقط لإنشاء بيانات DataPacks المخصصة ، ولكن أيضًا بالنسبة إلى MODs أيضًا عبر ميزة تبديل اسم MOD.",
+                "link": "https://github.com/pattygcoding/Minecraft-JSON-Generator"
+            },
+            "educational_experience": {
+                "title": "تجربتي التعليمية",
+                "text": "إلى جانب مشاريعي الشخصية ، اكتسبت أيضًا العديد من المهارات من الخبرة التعليمية. انقر هنا لعرض ملف تعريف LinkedIn لمزيد من المعلومات.",
+                "link": "https://www.linkedin.com/in/patrickgoodwin7"
+            },
+            "professional_experience": {
+                "title": "تجربتي المهنية",
+                "text": "إلى جانب مشاريعي الشخصية ، اكتسبت أيضًا العديد من المهارات من الخبرة المهنية. انقر هنا لعرض ملف تعريف LinkedIn لمزيد من المعلومات.",
+                "link": "https://www.linkedin.com/in/patrickgoodwin7"
+            },
+            "portfolio_website": {
+                "title": "موقع Patrick Goodwin Portfolio",
+                "text": "هذا الموقع هو موقع الويب الخاص بي الشخصية ، المصممة مع React.js. يستخدم هذا المشروع لعرض مهاراتي ومشاريعي ، وكذلك لتوفير منصة لأصحاب العمل المحتملين للاتصال بي. يستخدم هذا المشروع لإنشاء وجود مهني عبر الإنترنت.",
+                "link": "https://www.pattygcoding.com"
+            },
+            "lua_library": {
+                "title": "مكتبة السيناريو لوا باتريك",
+                "text": "مكتبة مفيدة من البرامج النصية لوا للرجوع إليها في المستقبل. تُستخدم هذه المكتبة لأتمتة المهام في البرامج النصية Lua ، والتي يمكن أن تكون مفيدة لمهام التي تحتاج إلى الأداء ، حيث عادة ما تكون Lua لغة نصية أسرع من كل من Python و Ruby.",
+                "link": "https://github.com/pattygcoding/Lua-Scripts"
+            },
+            "excel_scripts": {
+                "title": "برامج بيانات باتريك Microsoft Excel (VBA)",
+                "text": "مكتبة مفيدة من البرامج النصية VBA لـ Microsoft Excel. يتم استخدام هذه المكتبة لأتمتة المهام في جداول بيانات Excel.",
+                "link": "https://github.com/pattygcoding/Spreadsheet-Scripts"
+            },
+            "neovim_config": {
+                "title": "تكوين باتريك نيوفم",
+                "text": "تكوين NEOVIM الشخصي الخاص بي. يتم استخدام هذا المشروع لتكوين Neovim حسب رغبتي ، بما في ذلك beybindings المخصصة والموضوعات والمكونات الإضافية. يستخدم هذا المشروع لجعل Neovim أكثر سهولة وفعالة لاستخدامي الشخصي.",
+                "link": "https://github.com/pattygcoding/Neovim-Config"
+            },
+            "python_maps": {
+                "title": "مولد خريطة باتريك",
+                "text": "مولد خريطة مقاطعة الولايات المتحدة ومقاطعة ، تم تصميمه مع بيثون باستخدام مكتبات الجيوباندا و Matplotlib. يستخدم هذا المشروع لإنشاء خرائط للولايات المتحدة ، بما في ذلك خرائط المقاطعات والولاية. يتم استخدام هذا المشروع لإنشاء خرائط مخصصة لتصور البيانات وتحليلها.",
+                "link": "https://i.imgur.com/HxYLSXC.png"
+            },
+            "powershell_library": {
+                "title": "مكتبة السيناريو PATRICK'S PowerShell",
+                "text": "مكتبة مفيدة من البرامج النصية PowerShell للرجوع إليها في المستقبل. مفيد مع ميزة البرنامج النصي $ ، أجد أن هذا مفيدًا للغاية لأتمتة المهام من محطة Windows ، حيث أنني مستخدم متكرر لنظام التشغيل Windows OS.",
+                "link": "https://github.com/pattygcoding/Powershell-Scripts"
+            },
+            "ruby_library": {
+                "title": "مكتبة السيناريو روبي في باتريك",
+                "text": "مكتبة مفيدة من البرامج النصية الياقوت للرجوع إليها في المستقبل. مفيد لروبي في المستقبل على القضبان المفاهيم التنموية.",
+                "link": "https://github.com/pattygcoding/Ruby-Scripts"
+            },
+            "pdf_builder": {
+                "title": "PDF مهارات باني",
+                "text": "منشئ PDF مخصص تم تصميمه مع Python عبر امتدادات PDFKIT و Jinja2 ، إلى جانب تنسيق HTML و JSON. يستخدم هذا المشروع لإنشاء ملفات PDF من قائمة المهارات والمشاريع. يمكن استخدام هذا المشروع لإنشاء استئناف PDF مخصص ، وهو أمر مفيد جدًا لتطبيقات الوظائف.",
+                "link": "https://github.com/pattygcoding/PDFBuilderPublic"
+            },
+            "rijandel_encryption": {
+                "title": "مشروع تشفير Rijandel",
+                "text": "عائلة مكونة من 10 تطبيقات من خوارزمية تشفير Rijandel في 128 و 192 و 256 بت. يتم استخدام هذا المشروع لإظهار خوارزمية تشفير Rijandel بلغات برمجة مختلفة. يستخدم هذا المشروع لإنشاء عائلة من تطبيقات خوارزمية تشفير Rijandel.",
+                "link": "https://github.com/pattygcoding/SupremeMC"
+            },
+            "suprememc": {
+                "title": "suprememc minecraft mod",
+                "text": "Minecraft Mod الذي يضيف أدوات مخصصة ، درع ، الغوغاء ، الكتل ، الأبعاد ، والعديد من الميزات الأخرى للعبة. تم تصميمه باستخدام إصدارات Java 8-17 للاختيار من إصدارات Minecraft بين 1.16 و 1.20.",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/suprememc"
+            },
+            "tiger_programming_language": {
+                "title": "لغة برمجة النمر",
+                "text": "لغة البرمجة المخصصة التي تم إنشاؤها في كل من GO & Rust لتجربة تصميم المترجم الفوري والأداء. تم تنفيذها على موقع المحفظة باستخدام مجموعة الويب.",
+                "link": "https://www.pattygcoding.com/tiger"
+            },
+            "tiger_tailgating_pros": {
+                "title": "موقع إيجابيات Tiger tailgating",
+                "text": "موقع ويب قمت ببنيه في عام 2024 لـ Tiger Tailgating Pros ، وهي شركة لذيذ في كليمسون ، SC. بنيت مع رد الفعل.",
+                "link": "https://github.com/pattygcoding/TTProsBeta"
+            },
+            "turing_machine": {
+                "title": "مشروع آلة تورينج",
+                "text": "عائلة من أكثر من 30 تطبيقات من آلة تورينج. تستخدم لإظهار اكتمال Turing لغات البرمجة المختلفة للبحث ، وخاصة بالنسبة للغة البرمجة النمر.",
+                "link": "https://github.com/pattygcoding/Turing-Machines"
+            }
+        }
+    },
+    "tiger_programming_language": {
+        "title": "لغة برمجة النمر"
+    },
+    "contact": {
+        "title": "اتصل بي",
+        "header": "معلومات الاتصال",
+        "email": "pattygsocials@gmail.com",
+        "description": "أرد على الاستفسارات من البريد الإلكتروني ورسائل LinkedIn ورسائل Instagram. سأعاود الاتصال أيضًا إذا تم توفير رقمي عبر السيرة الذاتية أو غير ذلك ، على الرغم من أنني أفضل الحفاظ على رقم هاتفي الخاص."
+    },
+    "formatter": {
+        "title": "JSON & YAML Formatter",
+        "description": "Formatter JSON & YAML هي أداة تتيح لك تنسيق ملفات JSON و YAML. تم تصميمه باستخدام GO و Webassembly ، وهو مصمم ليكون سريعًا وفعالًا. تم تصميم Formatter لتكون سهلة الاستخدام ، مع واجهة بسيطة تتيح لك لصق في رمز JSON أو YAML وتنسيقه بنقرة زر.",
+        "more_info1": "لمزيد من المعلومات ، راجع ReadMe في",
+        "more_info2": "مستودع JSON/YAML Formatter.",
+        "format_as": "شكل على النحو التالي:",
+        "auto_detect": "اكتشاف السيارات",
+        "format": "شكل"
+    },
+    "tiger": {
+        "title": "لغة النمر",
+        "description": "لغة برمجة Tiger هي لغة برمجة مخصصة تم تصميمها في كل من Go & Rust لتجربة تصميم المترجم الفوري والأداء. تم تنفيذها على موقع المحفظة باستخدام مجموعة الويب. لغة برمجة Tiger هي لغة برمجة مخصصة تم تصميمها في كل من Go & Rust لتجربة تصميم المترجم الفوري والأداء. تم تنفيذها على موقع المحفظة باستخدام مجموعة الويب.",
+        "more_info1": "لمزيد من المعلومات ، راجع ReadMe في",
+        "more_info2": "نمر برمجة لغة مستودع جيثب.",
+        "select_engine": "حدد المحرك:",
+        "tiger_code": "رمز النمر:",
+        "run_tiger": "تشغيل النمر",
+        "output": "الإخراج:"
+    },
+    "tab": {
+        "title": "باتريك جودوين",
+        "description": "مهندس برمجيات مكدس كامل مقره في وسط فلوريدا"
+    },
+    "copy": {
+        "text": "ينسخ",
+        "copied": "نسخ!"
+    },
+    "social_media": {
+        "github": "جيثب",
+        "instagram": "Instagram",
+        "linkedin": "LinkedIn",
+        "tiktok": "تيخوك",
+        "youtube": "يوتيوب",
+        "text_strip": "اتبعني"
+    },
+    "logotext": "باتريك"
+}
